@@ -1,1 +1,2 @@
-docker.elastic.co/elasticsearch/elasticsearch:8.13.4
+nacos/nacos-server:2.4.3
+example/mysql:8.0.30
