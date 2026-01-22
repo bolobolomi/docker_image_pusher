@@ -1,1 +1,1 @@
-efthde/gitlab-ce-arm64
+gitlab/gitlab-ce
